@@ -60,9 +60,9 @@ layout: default
 
 **1987** : **Lavoro, criminalità e alienazione mentale. Ricerche sulle Marche tra Otto e Novecento** , [a cura di], il Lavoro Editoriale, Ancona-Bologna, pp. 191;
 
-**Sanità e società. II: Emilia-Romagna, Toscana, Marche, Umbria e Lazio. Secoli XVI-XX** , &nbsp;Casamassima, Udine, pp. 417 [a cura di - con Alessandro Pastore].
+**Sanità e società. II: Emilia-Romagna, Toscana, Marche, Umbria e Lazio. Secoli XVI-XX**; Casamassima, Udine, pp. 417 [a cura di - con Alessandro Pastore].
 
-**1986** : **Linea Gotica 1944. Eserciti, partigiani, popolazioni** , F. Angeli, Milano, pp. 722 ( a cura di –con Giorgio Rochat e Enzo Santarelli];
+**1986** : **Linea Gotica 1944. Eserciti, partigiani, popolazioni** , F. Angeli, Milano, pp. 722 (a cura di –con Giorgio Rochat e Enzo Santarelli];
 
 **Nuove epidemie antiche paure. Uomini e colera nell'Ottocento** , F. Angeli, Milano, pp. 153.
 

@@ -12,7 +12,7 @@ comments:
 #    isso: "comments.mysite.org"
 
 style:
-#    body: "whitesmoke"
+    # body: "whitesmoke"
     padding: 33%
     anchor: "#46f"
     serif-heading: true
