@@ -1,5 +1,5 @@
 ---
-title:  "Le pallottole sono matte e noi eravamo peggio degli uccelli. La guerra di Augusto Della Martera, 1915-1916."
+title:  "LE PALLOTTOLE SONO MATTE E NOI ERAVAMO PEGGIO DEGLI UCCELLI. </br>La guerra di Augusto Della Martera, 1915-1916."
 date:   1990-01-01 00:00:00
 categories: Pubblications
 ---

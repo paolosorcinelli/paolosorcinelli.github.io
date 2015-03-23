@@ -26,7 +26,9 @@ layout: default
 
 **2007** : **Le avventure del corpo. Culture e pratiche dell'intimità quotidiana** , Bruno Mondadori, Milano, pp.198.
 
-**2005** : **Gli anni del Rock (1954-1977)** , BUP-Bononia University Press, Bologna, pp. 268 (a cura di). **2004** : **Il secolo dei giovani. Le nuove generazioni e la storia del Novecento** , Roma, Donzelli, pp. 304 (a cura di – con Angelo Varni);
+**2005** : **Gli anni del Rock (1954-1977)** , BUP-Bononia University Press, Bologna, pp. 268 (a cura di). 
+
+**2004** : **Il secolo dei giovani. Le nuove generazioni e la storia del Novecento** , Roma, Donzelli, pp. 304 (a cura di – con Angelo Varni);
 
 **Identikit del Novecento. Conflitti, trasformazioni sociali, stili di vita** , Donzelli, Roma, pp.379 (a cura di).
 

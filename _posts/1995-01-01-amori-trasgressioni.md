@@ -1,5 +1,5 @@
 ---
-title:  "Amori e trasgressioni. Rapporti di coppia tra Otto e Novecento."
+title:  "AMORI E TRASGRESSIONI. </br>Rapporti di coppia tra Otto e Novecento."
 date:   1995-01-01 00:00:00
 categories: Pubblications
 ---

@@ -1,5 +1,5 @@
 ---
-title:  "Il secolo dei giovani. Le nuove generazioni e la storia del Novecento."
+title:  "IL SECOLO DEI GIOVANI. </br>Le nuove generazioni e la storia del Novecento."
 date:   2008-01-01 00:00:00
 categories: Pubblications
 ---

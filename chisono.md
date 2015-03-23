@@ -1,5 +1,5 @@
 ---
-title: "Chi sono"
+title: ""
 permalink: /
 layout: default
 ---

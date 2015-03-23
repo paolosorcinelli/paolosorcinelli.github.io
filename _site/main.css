@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Gentium Basic", serif;
   letter-spacing: 2px; }
   header h1, header h2, header h3, header h4, header h5, header h6 {
-    text-transform: uppercase; }
+    text-transform: none; }
 
 article:nth-of-type(even) {
   background: #222222;

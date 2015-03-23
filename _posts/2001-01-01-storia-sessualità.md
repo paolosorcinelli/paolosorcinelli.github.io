@@ -1,5 +1,5 @@
 ---
-title:  "Storia e sessualità.Casi di vita, regole e trasgressioni tra Ottocento e Novecento."
+title:  "STORIA E SESSUALITÀ. </br>Casi di vita, regole e trasgressioni tra Ottocento e Novecento."
 date:   2001-01-01 00:00:00
 categories: Pubblications
 ---

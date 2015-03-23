@@ -1,5 +1,5 @@
 ---
-title:  "Avventure del corpo. Culture e pratiche dell'intimità quotidiana."
+title:  "AVVENTURE DEL CORPO. </br>Culture e pratiche dell'intimità quotidiana."
 date:   2006-01-01 00:00:00
 categories: Pubblications
 ---
