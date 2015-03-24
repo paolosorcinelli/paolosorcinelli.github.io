@@ -1,5 +1,5 @@
 ---
-title:  "OTTO SETTEMBRE."
+title:  "OTTO SETTEMBRE"
 date:   2013-01-01 00:00:00
 categories: Pubblications
 ---

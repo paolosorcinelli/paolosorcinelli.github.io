@@ -1,5 +1,5 @@
 ---
-title:  "GLI ITALIANI E IL CIBO. </br>Dalla polenta ai cracker."
+title:  "GLI ITALIANI E IL CIBO</br>Dalla polenta ai cracker"
 date:   1999-01-01 00:00:00
 categories: Pubblications
 ---

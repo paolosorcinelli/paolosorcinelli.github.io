@@ -1,5 +1,5 @@
 ---
-title:  "DIECI STORIE NEL COMÒ."
+title:  "DIECI STORIE NEL COMÒ"
 date:   2011-01-01 00:00:00
 categories: Pubblications
 ---

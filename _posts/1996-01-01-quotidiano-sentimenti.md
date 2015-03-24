@@ -1,5 +1,5 @@
 ---
-title:  "IL QUOTIDIANO E I SENTIMENTI. </br>Viaggio nella storia sociale."
+title:  "IL QUOTIDIANO E I SENTIMENTI</br>Viaggio nella storia sociale"
 date:   1996-01-01 00:00:00
 categories: Pubblications
 ---

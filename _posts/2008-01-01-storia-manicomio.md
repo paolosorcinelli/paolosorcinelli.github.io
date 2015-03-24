@@ -1,5 +1,5 @@
 ---
-title:  "UNA STORIA DA MANICOMIO. </br>Avventure di un finto vescovo che morì dentista."
+title:  "UNA STORIA DA MANICOMIO</br>Avventure di un finto vescovo che morì dentista"
 date:   2008-01-01 00:00:00
 categories: Pubblications
 ---

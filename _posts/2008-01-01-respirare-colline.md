@@ -1,5 +1,5 @@
 ---
-title:  "LASCEREI RESPIRARE LE COLLINE. </br>Storie di vita e di paese."
+title:  "LASCEREI RESPIRARE LE COLLINE</br>Storie di vita e di paese"
 date:   2008-01-01 00:00:00
 categories: Pubblications
 ---

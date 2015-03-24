@@ -1,5 +1,5 @@
 ---
-title:  "STUDIARE LA MODA."
+title:  "STUDIARE LA MODA"
 date:   2003-01-01 00:00:00
 categories: Pubblications
 ---

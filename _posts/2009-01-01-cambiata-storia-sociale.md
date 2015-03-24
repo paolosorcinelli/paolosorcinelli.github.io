@@ -1,5 +1,5 @@
 ---
-title:  "VIAGGIO NELLA STORIA SOCIALE."
+title:  "VIAGGIO NELLA STORIA SOCIALE"
 date:   2009-01-01 00:00:00
 categories: Pubblications
 ---

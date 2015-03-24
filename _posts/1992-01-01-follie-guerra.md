@@ -1,5 +1,5 @@
 ---
-title:  "LA FOLLIA DELLA GUERRA. </br>Storie dal manicomio negli anni Quaranta."
+title:  "LA FOLLIA DELLA GUERRA</br>Storie dal manicomio negli anni Quaranta"
 date:   1992-01-01 00:00:00
 categories: Pubblications
 ---

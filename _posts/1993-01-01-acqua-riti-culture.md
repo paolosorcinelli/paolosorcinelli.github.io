@@ -1,5 +1,5 @@
 ---
-title:  "STORIA SOCIALE DELL'ACQUA. </br>Riti e culture."
+title:  "STORIA SOCIALE DELL'ACQUA</br>Riti e culture"
 date:   1993-01-01 00:00:00
 categories: Pubblications
 ---

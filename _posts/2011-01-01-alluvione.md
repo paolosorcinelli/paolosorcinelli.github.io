@@ -1,5 +1,5 @@
 ---
-title:  "L'ALLUVIONE. </br>Il Polesine e l'Italia nel 1951."
+title:  "L'ALLUVIONE</br>Il Polesine e l'Italia nel 1951"
 date:   2011-01-01 00:00:00
 categories: Pubblications
 ---
