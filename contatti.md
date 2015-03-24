@@ -4,7 +4,13 @@ permalink: contatti/
 layout: default
 ---
 
-###Mail
-Per qualsiasi informazione, mi potete contattare via email a <a href="mailto:paolo.sorcinelli@unibo.it">questo indirizzo</a>.
+<!-- ![Con Boris](http://i61.tinypic.com/ogxq81.jpg) -->
+![Con Boris](/assets/neve.jpg)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+Per qualsiasi informazione, mi potete contattare via email ai seguenti indirizzi:
+
+- <a href="mailto:paolo.sorcinelli@unibo.it">paolo.sorcinelli@unibo.it</a>
+
+- <a href="mailto:sambari@me.com">sambari@me.com</a>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
