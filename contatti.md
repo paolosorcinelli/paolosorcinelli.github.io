@@ -7,7 +7,7 @@ layout: default
 <!-- ![Con Boris](http://i61.tinypic.com/ogxq81.jpg) -->
 ![Con Boris](/assets/neve.jpg)
 
-Per qualsiasi informazione, mi potete contattare via email ai seguenti indirizzi:
+Adesso vado a spasso col cane, anche sotto la neve, ma se avete delle buone ragioni  mi potete contattare ai seguenti indirizzi:
 
 - <a href="mailto:paolo.sorcinelli@unibo.it">paolo.sorcinelli@unibo.it</a>
 
