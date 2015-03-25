@@ -3,6 +3,10 @@ title: "Nota Biografica"
 permalink: notabiografica/
 layout: default
 ---
+<h4 id="english-versionbiographicalnote-biographical-note" style="text-align:center;">
+    <a title="Biographical Note" href="/biographicalnote/" style="">Click here for the English version</a>
+</h4>
+
 <img 
 	style="margin-left: 15%"
 	ora="Sedia per leggere"
