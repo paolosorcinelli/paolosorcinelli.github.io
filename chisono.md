@@ -23,6 +23,6 @@ layout: default
 
 <br>
 <img 
-	style="margin-left: 15%" 
+	style="margin-left: 30%" 
 	alt="Ora"
 	src="/assets/ora.jpg"/>
