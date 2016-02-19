@@ -8,6 +8,8 @@ layout: default
 
 ##SAGGI, MONOGRAFIE E CURATELE
 
+**2015** : **Storie e memorie del ‘900. Un’autobiografia collettiva di San Costanzo**, Metauro Edizioni, pp. 370 (con Paolo Alfieri). 
+
 **2014** : **L'alluvione (l'Italia e il Polesine nel 1951)**, (2^ edizione), Metauro, pp.272(con Mihran Tchaprassian).
 
 **2013** : **Otto settembre** , Pearson - Bruno Mondadori, Milano, pp. 227.
