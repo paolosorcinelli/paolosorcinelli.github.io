@@ -6,7 +6,7 @@ layout: default
 <!-- ![Pipa](http://i60.tinypic.com/4uf8y0.jpg) -->
 ![Pipa](/assets/pipa.jpg)
 
-<h1 id="saggi-momografie-e-curatele">SAGGI, MONOGRAFIE E CURATELE</h1>
+<h1>SAGGI, MONOGRAFIE E CURATELE</h1>
 
 **2015** : **Storie e memorie del ‘900. Un’autobiografia collettiva di San Costanzo**, Metauro Edizioni, pp. 370 (con Paolo Alfieri). 
 
@@ -82,7 +82,7 @@ layout: default
 
 &nbsp;
 
-##CONTRIBUTI IN LIBRI E RIVISTE
+###CONTRIBUTI IN LIBRI E RIVISTE
 
 **2014** : **La memoria della guerra. San Costanzo 1940- 1945** (con Giulia Nataloni) Quaderno 1- Lab.Mem., Metauro Edizioni, Pesaro, pp. 88.
 
