@@ -9,9 +9,6 @@ layout: default
     alt="Ora"
     src="/assets/ora.jpg"/>
 
-**29 giugno**
-<br>San Costanzo (PU)
-
 **25 giugno 1970**
 <br>Laurea in Lettere moderne all’Università di Urbino
 
