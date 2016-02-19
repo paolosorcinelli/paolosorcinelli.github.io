@@ -6,7 +6,7 @@ layout: default
 <!-- ![Pipa](http://i60.tinypic.com/4uf8y0.jpg) -->
 ![Pipa](/assets/pipa.jpg)
 
-##SAGGI, MONOGRAFIE E CURATELE
+#SAGGI, MONOGRAFIE E CURATELE
 
 **2015** : **Storie e memorie del ‘900. Un’autobiografia collettiva di San Costanzo**, Metauro Edizioni, pp. 370 (con Paolo Alfieri). 
 
