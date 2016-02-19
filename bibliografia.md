@@ -82,7 +82,7 @@ layout: default
 
 &nbsp;
 
-###CONTRIBUTI IN LIBRI E RIVISTE
+<h1>CONTRIBUTI IN LIBRI E RIVISTE</h1>
 
 **2014** : **La memoria della guerra. San Costanzo 1940- 1945** (con Giulia Nataloni) Quaderno 1- Lab.Mem., Metauro Edizioni, Pesaro, pp. 88.
 
@@ -252,7 +252,7 @@ layout: default
 
 &nbsp;
 
-##PUBBLICAZIONI IN LINGUA STRANIERA
+<h1>PUBBLICAZIONI IN LINGUA STRANIERA</h1>
 
 **2012 – 2014: Prefazione** a L. Gorgolini, _I dannati dell'Asinara_, Utet, 2011, pp.VII-XI tradotta in tedesco, Univesritatsverlag Wagner, Innsbruck nel 2012 e in serbo, edizioni Prometej nel 2014.
 
@@ -274,7 +274,7 @@ layout: default
 
 &nbsp;
 
-##COLLANE EDITORIALI IDEATE E DIRETTE
+<h1>COLLANE EDITORIALI IDEATE E DIRETTE</h1>
 
 **Percorsi- Storie culture mentalità** [Transeuropa] (con Giuseppe Olmi)
 
@@ -314,19 +314,19 @@ layout: default
 
 &nbsp;
 
-##MANUALE SCOLASTICO
+<h1>MANUALE SCOLASTICO</h1>
 
 **Storie. Corso di storia per il triennio superiore** , La Nuova Italia, Firenze 2003, 3 voll. pp. 1673 (con Daniela Calanca e Doriano Pela).
 
 &nbsp;
 
-##RIVISTE
+<h1>RIVISTE</h1>
 
 Dal 1990 al 1995 ha diretto "Storie e Problemi Contemporanei" (CLUEB - Bologna).
 
 &nbsp;
 
-##LABORATORI
+<h1>LABORATORI</h1>
 
 2004: **ImagOnline** - 2006: **Archivio delle Voci**, 2008: **Laboratorio di storia sociale "Memoria del quotidiano"** (Università di Bologna, Campus di Rimini).
 
