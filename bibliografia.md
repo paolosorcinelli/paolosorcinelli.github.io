@@ -8,9 +8,13 @@ layout: default
 
 <h1>SAGGI, MONOGRAFIE E CURATELE</h1>
 
+**2016** : **Storia sociale dell'acqua. Riti e culture.**, (Nuova Edizione - 1^ edizione 1998) Odoya, Bologna, pp.2017.
+
+**2016** : **La follia della guerra. Storie dal manicomio negli anni Quaranta**, (Nuova Edizione - 1^ edizione 1992) Odoya, Bologna, pp.217.
+
 **2015** : **Storie e memorie del ‘900. Un’autobiografia collettiva di San Costanzo**, Metauro Edizioni, pp. 370 (con Paolo Alfieri). 
 
-**2014** : **L'alluvione (l'Italia e il Polesine nel 1951)**, (2^ edizione), Metauro, pp.272(con Mihran Tchaprassian).
+**2014** : **L'alluvione (l'Italia e il Polesine nel 1951)**, (2^ edizione), Metauro, pp.272 (con Mihran Tchaprassian).
 
 **2013** : **Otto settembre** , Pearson - Bruno Mondadori, Milano, pp. 227.
 
@@ -84,7 +88,9 @@ layout: default
 
 <h1>CONTRIBUTI IN LIBRI E RIVISTE</h1>
 
-**2014** : **La memoria della guerra. San Costanzo 1940- 1945** (con Giulia Nataloni) Quaderno 1- Lab.Mem., Metauro Edizioni, Pesaro, pp. 88.
+**2016** : **La guerra e la psichiatria** in _La guerra in carne e ossa / The War in the Flesh_ (Minority Reports Cultural Disability Studies - 2/2016), Mimesis/Suor Orsola Benincasa University Press, pp.135-148.
+
+**2014** : **La memoria della guerra. San Costanzo 1940 - 1945** (con Giulia Nataloni) Quaderno 1- Lab.Mem., Metauro Edizioni, Pesaro, pp. 88.
 
 **2013** : **Questa benedetta storia** , in _Isaura. Festschrift per gli ottanta anni di Gianfranco Sabbatini_, a cura di Nando Cecini, il lavoro editoriale, Ancona, pp. 245-264.
 
