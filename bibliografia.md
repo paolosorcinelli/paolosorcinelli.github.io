@@ -8,7 +8,7 @@ layout: default
 
 <h1>SAGGI, MONOGRAFIE E CURATELE</h1>
 
-**2017** : **Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti** (1880-1960), Laboratorio di Memorie,  pp. 268, 165 ill.
+**2017** : **Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti** (1880-1960), Laboratorio di Memorie,  pp. 268, 165 ill. (con Paolo Alfieri)
 
 **2016** : **Storia sociale dell'acqua. Riti e culture.**, (Nuova Edizione - 1^ edizione 1998) Odoya, Bologna, pp.217.
 
