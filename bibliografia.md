@@ -18,15 +18,25 @@ layout: default
 
 **2014** : **L'alluvione (l'Italia e il Polesine nel 1951)**, (2^ edizione), Metauro, pp.272 (con Mihran Tchaprassian).
 
-Dal **2004** si è dedicato alla raccolta di **“Storie di Vita”** in audio e video che poi sono confluite in un **“Archiviodellevoci”** che ospita circa 700 testimonianze ([www.imago.rimini.unibo.it](www.imago.rimini.unibo.it)). 
+**2013** : **Otto settembre** , Pearson - Bruno Mondadori, Milano, pp. 227.
 
-In particolare 124 riguardano San Costanzo, il suo paese di nascita, e hanno costituito l’ossatura per quattro volumi: **“Lascerei respirare le colline. Storie di vita e di paese” (2008)**, **“La memoria della guerra” (2014)** (in collaborazione con Giulia Nataloni) e, in collaborazione di Paolo Alfieri, **“Storie e immagini del ‘900. L’autobiografia collettiva di San Costanzo” (2015)**, **“Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti” (2017)**. 
+**2011** : **Dieci storie nel comò** , Pearson-Bruno Mondadori, Milano, pp. 199.
 
-Nel **2011** ha pubblicato per la Utet: **“L’alluvione. L’Italia e il Polesine nel 1951”**, nel **2014** ristampato con un ricco apparato iconografico presso Metauro Edizioni. 
+**L'alluvione. Il Polesine e l'Italia nel 1951** , Utet, Torino, pp. 271 (con Mihran Tchaprassian).
 
-Nel **2013**, per la Bruno Mondadori-Pearson, ha dato alle stampe il volume **“Otto settembre”**. 
+**2009** : **Viaggio nella storia sociale** , Bruno Mondadori, Milano [2^ ed. 2011], pp.167.
 
-Per la bibliografia completa si rimanda all’apposita sezione.
+**2008** : **Lascerei respirare le colline. Storie di vita e di paese** , Bruno Mondadori, pp. 304.
+
+**Una storia da manicomio. Avventure di un finto frate che morì dentista** , Bruno Mondadori, pp. 144.
+
+**Estudar a moda. Corpos vestuàrios, estratégias** , Editora Senac, Sao Paulo, pp. 214 (Paolo Sorcinelli: organizador; Alberto Malfitano, Giampaolo Proni: colaboradores; Renato Ambrosio, traducao).
+
+**2007** : **Le avventure del corpo. Culture e pratiche dell'intimità quotidiana** , Bruno Mondadori, Milano, pp.198.
+
+**2005** : **Gli anni del Rock (1954-1977)** , BUP-Bononia University Press, Bologna, pp. 268 (a cura di). 
+
+**2004** : **Il secolo dei giovani. Le nuove generazioni e la storia del Novecento** , Roma, Donzelli, pp. 304 (a cura di – con Angelo Varni).
 
 **Identikit del Novecento. Conflitti, trasformazioni sociali, stili di vita** , Donzelli, Roma, pp.379 (a cura di).
 
@@ -34,7 +44,7 @@ Per la bibliografia completa si rimanda all’apposita sezione.
 
 **2002** : **Il quotidiano e i sentimenti. Viaggio nella storia sociale**, (nuova edizione), Bruno Mondadori, 2002, pp. 217.
 
-**2001** : **Storia e sessualità. Casi di vita, regole e trasgressioni tra otto e novecento** , Bruno Mondadori, Milano, pp. 185.
+**2001** : **Storia e sessualità. Casi di vita, regole e trasgressioni tra otto e novecento**, Bruno Mondadori, Milano, pp. 185.
 
 **1999** : **Gli italiani e il cibo. Dalla polenta ai cracker** , Bruno Mondadori, Milano, pp. 264; **Generazioni del Novecento. Guerra famiglia partecipazione consumi** _,_ La Nuova Italia, Firenze, pp.371 (con Doriano Pela).
 
@@ -242,7 +252,7 @@ Per la bibliografia completa si rimanda all’apposita sezione.
 
 **1975** : **Agricoltura, manifatture e salari in una provincia pontificia dopo la Restaurazione** in "Studi Urbinati", 2/1975, pp. 311-336.
 
-**Vicende tecniche del porto di Fano in epoca moderna**** ,** in "Fano", pp. 20.
+**Vicende tecniche del porto di Fano in epoca moderna**,in "Fano", pp. 20.
 
 **1974** : **Nota sul movimento giacobinico nella Legazione di Urbino** , in "Atti e Memorie"-Deputazione di storia patria per le Marche - vol. VII (1971-1973), Ancona, pp. 192-219.
 
