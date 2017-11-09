@@ -18,13 +18,13 @@ layout: default
 
 **2014** : **L'alluvione (l'Italia e il Polesine nel 1951)**, (2^ edizione), Metauro, pp.272 (con Mihran Tchaprassian).
 
-Dal **2004** si è dedicato alla raccolta di **“Storie di Vita”** in audio e video che poi sono confluite in un **“Archiviodellevoci”** che ospita circa 700 testimonianze (www.imago.rimini.unibo.it). 
+Dal **2004** si è dedicato alla raccolta di **“Storie di Vita”** in audio e video che poi sono confluite in un **“Archiviodellevoci”** che ospita circa 700 testimonianze ([www.imago.rimini.unibo.it](www.imago.rimini.unibo.it)). 
 
 In particolare 124 riguardano San Costanzo, il suo paese di nascita, e hanno costituito l’ossatura per quattro volumi: **“Lascerei respirare le colline. Storie di vita e di paese” (2008)**, **“La memoria della guerra” (2014)** (in collaborazione con Giulia Nataloni) e, in collaborazione di Paolo Alfieri, **“Storie e immagini del ‘900. L’autobiografia collettiva di San Costanzo” (2015)**, **“Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti” (2017)**. 
 
 Nel **2011** ha pubblicato per la Utet: **“L’alluvione. L’Italia e il Polesine nel 1951”**, nel **2014** ristampato con un ricco apparato iconografico presso Metauro Edizioni. 
 
-Nel 2013, per la Bruno Mondadori-Pearson, ha dato alle stampe il volume **“Otto settembre”**. 
+Nel **2013**, per la Bruno Mondadori-Pearson, ha dato alle stampe il volume **“Otto settembre”**. 
 
 Per la bibliografia completa si rimanda all’apposita sezione.
 
@@ -32,7 +32,7 @@ Per la bibliografia completa si rimanda all’apposita sezione.
 
 **2003** : **Studiare la moda. Corpi vestiti strategie** , Bruno Mondatori, Milano, pp. 162 (a cura di – in collaborazione con Alberto Malfitano e Giampaolo Proni).
 
-**2002** : **Il quotidiano e i sentimenti. Viaggio nella storia sociale**, (nuova edizione),**** &nbsp;**Bruno Mondadori, 2002, pp. 217.
+**2002** : **Il quotidiano e i sentimenti. Viaggio nella storia sociale**, (nuova edizione), Bruno Mondadori, 2002, pp. 217.
 
 **2001** : **Storia e sessualità. Casi di vita, regole e trasgressioni tra otto e novecento** , Bruno Mondadori, Milano, pp. 185.
 
@@ -329,4 +329,3 @@ Dal 1990 al 1995 ha diretto "Storie e Problemi Contemporanei" (CLUEB - Bologna).
 2004: **ImagOnline** - 2006: **Archivio delle Voci**, 2008: **Laboratorio di storia sociale "Memoria del quotidiano"** (Università di Bologna, Campus di Rimini).
 
 2014: **Laboratorio di Memorie- Archivio Multimediale delle Voci** ([www.archiviodellevoci.eu](http://www.archiviodellevoci.eu)) Palazzo Cassi-San Costanzo-PU.
-
