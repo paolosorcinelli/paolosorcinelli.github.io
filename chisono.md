@@ -34,7 +34,7 @@ Da un punto di vista della metodologia e dei campi di ricerca della "storia soci
 
 Dal 2004 si è dedicato alla raccolta di **“Storie di Vita”** in audio e video che poi sono confluite in un **“Archiviodellevoci”** che ospita circa 700 testimonianze ([www.imago.rimini.unibo.it](www.imago.rimini.unibo.it)). 
 
-In particolare 124 riguardano San Costanzo, il suo paese di nascita, e hanno costituito l’ossatura per quattro volumi: **“Lascerei respirare le colline. Storie di vita e di paese” (2008)**, **“La memoria della guerra” (2014)** (in collaborazione con Giulia Nataloni) e, in collaborazione di Paolo Alfieri, **“Storie e immagini del ‘900. L’autobiografia collettiva di San Costanzo” (2015)**, **“Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti” (2017)**. 
+In particolare 124 riguardano San Costanzo, il suo paese di nascita, e hanno costituito l’ossatura per quattro volumi: **“Lascerei respirare le colline. Storie di vita e di paese” (2008)**, **“La memoria della guerra” (2014)** (in collaborazione con Giulia Nataloni) e, in collaborazione con Paolo Alfieri, **“Storie e immagini del ‘900. L’autobiografia collettiva di San Costanzo” (2015)**, **“Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti” (2017)**. 
 
 Nel 2011 ha pubblicato per la Utet: **“L’alluvione. L’Italia e il Polesine nel 1951”**, nel 2014 ristampato con un ricco apparato iconografico presso Metauro Edizioni. 
 
