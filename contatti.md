@@ -11,6 +11,6 @@ Adesso vado a spasso col cane, anche sotto la neve, ma se avete delle buone ragi
 
 - <a href="mailto:paolo.sorcinelli@unibo.it">paolo.sorcinelli@unibo.it</a>
 
-- <a href="mailto:sambari@me.com">sambari@me.com</a>
+- <a href="mailto:psorcinelli3@gmail.com">psorcinelli3@gmail.com</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
