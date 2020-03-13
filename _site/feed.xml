@@ -3,24 +3,28 @@
   <channel>
     <title>Paolo Sorcinelli</title>
     <description></description>
-    <link>http:paolosorcinelli.github.io</link>
-    <atom:link href="http:paolosorcinelli.github.iofeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Feb 2016 12:44:23 +0100</pubDate>
-    <lastBuildDate>Fri, 19 Feb 2016 12:44:23 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 13 Mar 2020 11:21:00 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2020 11:21:00 +0100</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>OTTO SETTEMBRE</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2013.Otto settembre.jpg&quot; alt=&quot;&amp;quot;Otto settembre.&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>STORIE DELL'OTTO SETTEMBRE</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2020.Otto settembre.jpeg&quot; alt=&quot;&amp;quot;Storie dell'Otto settembre.&amp;quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/Copertine/2013.Otto settembre.jpg&quot; alt=&quot;&amp;quot;Otto settembre.&amp;quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Edizioni: &lt;strong&gt;Bruno Mondadori - La storia narrata, 2013&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nuova edizione: &lt;strong&gt;BibliotecaClueb, 2020&lt;/strong&gt;
+&lt;br /&gt;
+1^ edizione: &lt;strong&gt;Bruno Mondadori - La storia narrata, 2013&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Erano le otto postmeridiane dell’otto settembre 1943. L’Italia accese i fuochi, suonò le campane, cantò e ballò nelle aie e nelle piazze. Ma l’euforia durò poco. Nelle caserme gli ufficiali parlarono alla truppa, le compagnie si sciolsero e, come scrisse Meneghello, le strade si affollarono di “due file praticamente continue di gente, di qua andavano in su, di là in giù, pareva che tutta la gioventù italiana di sesso maschile si fosse messa in strada, una specie di grande pellegrinaggio di giovanotti”. Tutti a casa? Non proprio: sarebbe stato troppo bello. In realtà l’8 settembre fu uno dei giorni più enigmatici e tragici della storia politica, sociale e militare d’Italia. E fu anche il giorno delle scelte, delle attese e di una memoria (non sempre condivisa) che protagonisti, più o meno noti, hanno riversato nella scrittura e nella testimonianza, raccontando quello strano giorno in cui la guerra che doveva finire, non finì. &lt;/p&gt;
 
 </description>
         <pubDate>Tue, 01 Jan 2013 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2013/01/01/otto-settembre.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2013/01/01/otto-settembre.html</guid>
+        <link>http://localhost:4000/pubblications/2013/01/01/otto-settembre.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2013/01/01/otto-settembre.html</guid>
         
         
         <category>Pubblications</category>
@@ -36,8 +40,8 @@
 &lt;p&gt;Nel comò Maria ha messo il suo bambino e Anna le lettere di Augusto. Nel comò, quelli con la guerra nel cervello hanno messo il foglio di dimissione dal manicomio e il barbiere ha custodito il manoscritto del compaesano mezzo matto che andava in giro vestendosi da nunzio apostolico. Suor Celeste riponeva nel canterano (l’antesignano del comò) il “ferro’ e le ostie consacrate, e altre donne e altri uomini i loro segreti per non aver figli, o i libri da leggere per capire come funzionava il mondo sotto sotto. Nei cassetti di un mobile di noce o di ciliegio sono rimasti per anni le paure del conte, il testamento del canonico che non voleva essere sepolto vivo e i ricordi della villeggiatura al mare. Insomma, per afferrare il passato, spesso è necessario frugare nel cassetto di qualche comò.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jan 2011 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2011/01/01/storie-como.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2011/01/01/storie-como.html</guid>
+        <link>http://localhost:4000/pubblications/2011/01/01/storie-como.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2011/01/01/storie-como.html</guid>
         
         
         <category>Pubblications</category>
@@ -45,8 +49,8 @@
       </item>
     
       <item>
-        <title>L&#39;ALLUVIONE&lt;/br&gt;Il Polesine e l&#39;Italia nel 1951</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2011-2014.L&#39;alluvione copia.jpeg&quot; alt=&quot;&amp;quot;L&#39;alluvione. Il Polesine e l&#39;Italia nel 1951.&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>L'ALLUVIONE&lt;/br&gt;Il Polesine e l'Italia nel 1951</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2011-2014.L'alluvione copia.jpeg&quot; alt=&quot;&amp;quot;L'alluvione. Il Polesine e l'Italia nel 1951.&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Edizioni: &lt;strong&gt;UTET Libreria, 2011 - METAURO EDIZIONI, 2014&lt;/strong&gt;&lt;/p&gt;
 
@@ -56,8 +60,8 @@ Nei primi affannosi e caotici tentativi di soccorso, un camion carico di fuggias
 Un bilancio che sconvolse il Paese e che emozionò l’opinione pubblica di tutto il mondo.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jan 2011 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2011/01/01/alluvione.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2011/01/01/alluvione.html</guid>
+        <link>http://localhost:4000/pubblications/2011/01/01/alluvione.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2011/01/01/alluvione.html</guid>
         
         
         <category>Pubblications</category>
@@ -74,8 +78,8 @@ Un bilancio che sconvolse il Paese e che emozionò l’opinione pubblica di tutt
 Questi gli interrogativi a cui il volume cerca di rispondere ripercorrendo i filoni storiografici che negli ultimi decenni hanno affrontato il tema della civiltà materiale e dei comportamenti della quotidianità. Dal pauperismo alla marginalità, dalle mentalità alle visioni del mondo, la storia sociale ha cercato di dar voce a quella maggioranza di uomini che la storia aveva sempre trascurato. Con le indagini quantitative della demografia storica e con il metodo indiziario della microstoria; con la psicostoria e con l’analisi dei comportamenti collettivi; con lo studio del nascere, dell’amare, del morire, della malattia e della fame, della famiglia e dei sentimenti, la storia sociale ha interrogato il passato alla luce di nuovi metodi, di nuove fonti e di una diversa sensibilità interpretativa.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2009 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2009/01/01/cambiata-storia-sociale.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2009/01/01/cambiata-storia-sociale.html</guid>
+        <link>http://localhost:4000/pubblications/2009/01/01/cambiata-storia-sociale.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2009/01/01/cambiata-storia-sociale.html</guid>
         
         
         <category>Pubblications</category>
@@ -94,8 +98,8 @@ Se Galileo non è pazzo e si spaccia per monaco cistercense, delegato apostolico
 Per cercare di capire quello che è successo, occorre entrare nei castelli di fantasie, bugie e raggiri imbastiti da Galileo, fra monasteri, parrocchie, curie e setacciare le montagne di carta compilate dai suoi osservatori. Ma neanche questo forse è sufficiente, perchÈ alla fine si scopre che la storia non è una sola e che Galileo è il personaggio pirandelliano che di volta in volta riesce a essere uno, nessuno e centomila. Fino alla fine.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2008/01/01/storia-manicomio.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2008/01/01/storia-manicomio.html</guid>
+        <link>http://localhost:4000/pubblications/2008/01/01/storia-manicomio.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2008/01/01/storia-manicomio.html</guid>
         
         
         <category>Pubblications</category>
@@ -111,8 +115,8 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
 &lt;p&gt;Come si può raccontare il Novecento, da tanti definito proprio il «secolo dei giovani», senza assumerne lo sguardo? Come dar conto del mutamento di linguaggi che dal dopoguerra a oggi è intervenuto nel costume, nell’arte, nella musica, nella letteratura, nella politica, in definitiva nella nostra vita di tutti i giorni senza far riferimento a quella soggettività delle nuove generazioni che sembra essere uno dei caratteri più forti e originali della storia contemporanea? Il rapporto tra i giovani e la storia è in genere mediato dalle categorie concettuali degli adulti. Testimonianze, documenti, epistolari, archivi sono sempre stati appannaggio degli specialisti, cosicché il punto di vista e la prospettiva dei giovani, non diversamente da quelli delle donne e dei bambini, hanno finito con l’essere elementi marginali o di contorno. La scelta degli autori di questo volume è proprio quella di guardare a tali cambiamenti con gli occhi di chi li ha provocati, per capire in che modo i giovani hanno interpretato la storia che hanno vissuto e come, a loro volta, siano stati rappresentati dalla storiografia. Dai miti giovanili al rapporto con il sesso, dall’impegno sociale alla famiglia, dai consumi alla comunicazione, ecco la prima ricostruzione «giovanile» del secolo appena passato. Questo volume, nato da un’esplicita committenza editoriale, aggiunge un’altra tessera alla lettura dell’Italia contemporanea, scegliendo di assumere fino in fondo un’angolatura finora mai praticata con sistematicità.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2008/01/01/secolo-giovani.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2008/01/01/secolo-giovani.html</guid>
+        <link>http://localhost:4000/pubblications/2008/01/01/secolo-giovani.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2008/01/01/secolo-giovani.html</guid>
         
         
         <category>Pubblications</category>
@@ -128,8 +132,8 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
 &lt;p&gt;Donne e uomini parlano di se stessi e della loro vita, di gioie e di dolori, di lavoro e di emozioni. I loro racconti si saldano e si congiungono come tanti tasselli, fino a comporre un enorme puzzle, un affresco di esperienze che spazia sulla vita, sulla morte e sui “miracoli” di quattro generazioni racchiuse su una collina di terra. La famiglia, i rapporti fra uomini e donne, le malattie, gli amori, le partenze per lavoro, i riti e le persecuzioni del fascismo, la guerra dei tedeschi e l’arrivo degli alleati; e, ancora, la bandiera rossa del primo maggio, il suicidio per amore dall’alto della torre, l’assalto al silos di grano, l’atterraggio d’emergenza di un ricognitore inglese, le bombe accatastate lungo le strade, la crudezza degli inverni, “quando faceva davvero la neve”: Storie di vita è la narrazione a “cento voci” di una comunità e lo specchio di un intero Paese.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2008/01/01/respirare-colline.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2008/01/01/respirare-colline.html</guid>
+        <link>http://localhost:4000/pubblications/2008/01/01/respirare-colline.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2008/01/01/respirare-colline.html</guid>
         
         
         <category>Pubblications</category>
@@ -143,8 +147,8 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
 &lt;p&gt;Edizioni: &lt;strong&gt;Senac, 2008&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2008/01/01/moda.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2008/01/01/moda.html</guid>
+        <link>http://localhost:4000/pubblications/2008/01/01/moda.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2008/01/01/moda.html</guid>
         
         
         <category>Pubblications</category>
@@ -160,8 +164,8 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
 &lt;p&gt;La storia italiana del Novecento attraverso l’analisi delle dinamiche che hanno investito le famiglie, i ruoli sociali, le generazioni: con questa lente, più che non quella tradizionalmente adottata della ricostruzione storico-politica, viene qui ripercorso il secolo cruciale della trasformazione italiana. Si tratta come è noto di un secolo che di volta in volta ha trovato definizioni diverse e contrapposte: potrà essere stato un «secolo breve» o «il secolo lungo», il «secolo della guerra» e della «dimensione di massa», il «secolo dei consumi» e il «secolo dell’accelerazione». Le categorie interpretative cui il volume ricorre per ricostruire la storia italiana di questi cento anni sono quelle dei conflitti bellici e le loro tipologie, delle relazioni sessuali e famigliari, delle forme della socializzazione politica, e – prima fra tutte – dell’affermarsi del cosiddetto «mondo dei giovani», vale a dire di una dimensione di consapevole contrapposizione nei confronti delle generazioni anziane che ha dato avvio a un inedito protagonismo delle nuove generazioni. L’insieme di questi fenomeni ha prodotto il risultato di una mutazione davvero epocale della società italiana, che ha determinato conseguenze radicali nella mentalità e nel costume, nel modo di vivere, di amare, di fare politica, di affrontare e subire le guerre, di vedere il mondo&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2008/01/01/identikit-900.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2008/01/01/identikit-900.html</guid>
+        <link>http://localhost:4000/pubblications/2008/01/01/identikit-900.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2008/01/01/identikit-900.html</guid>
         
         
         <category>Pubblications</category>
@@ -169,16 +173,16 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
       </item>
     
       <item>
-        <title>AVVENTURE DEL CORPO&lt;/br&gt;Culture e pratiche dell&#39;intimità quotidiana</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2006.Avventure del corpo.jpeg&quot; alt=&quot;&amp;quot;Avventure del corpo. Culture e pratiche dell&#39;intimità quotidiana.&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>AVVENTURE DEL CORPO&lt;/br&gt;Culture e pratiche dell'intimità quotidiana</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/2006.Avventure del corpo.jpeg&quot; alt=&quot;&amp;quot;Avventure del corpo. Culture e pratiche dell'intimità quotidiana.&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Edizioni: &lt;strong&gt;Bruno Mondadori, 2006&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Può sembrare paradossale, ma la storia è fatta cosÏ: le cose più semplici e abitudinarie, quelle di tutti e di tutti i giorni, sono le più sconosciute. Del corpo come fonte di piacere e suscitatore di desideri, del corpo come entità materiale, organica, triviale, poco è stato detto, e poco si ricorda: funzioni organiche, sessualità ed erotismo hanno rappresentato, in tutti questi secoli, un tabù da aggirare con terminologie velate e moralistiche o, al contrario, da infrangere con scritti provocatori e compiaciuti.La precettistica religiosa, la letteratura libertina, l’arte figurativa e i documenti archivistici delineano tuttavia la storia sotterranea di un’intimità quotidiana a lungo passata sotto silenzio. Gesti intimi, piaceri e repressioni guidano quest’inedita e appassionante storia che, dal Medioevo alle soglie del Novecento, porta alla luce stimolanti visioni culturali e nei pruriti di pulci e pidocchi, nelle pratiche igieniche, nelle sollecitazioni e nelle mortificazioni delle “parti vergognose”, ci fa rivivere le avventure e le sorprese di un corpo a misura d’uomo.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2006/01/01/avventure-corpo.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2006/01/01/avventure-corpo.html</guid>
+        <link>http://localhost:4000/pubblications/2006/01/01/avventure-corpo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2006/01/01/avventure-corpo.html</guid>
         
         
         <category>Pubblications</category>
@@ -194,28 +198,32 @@ Per cercare di capire quello che è successo, occorre entrare nei castelli di fa
 &lt;p&gt;La moda, spogliata dalle sue connotazioni di “fantasmi sontuosi e leggeri”, dalle “manifestazioni teatralizzate della frivolezza” e dalle suggestioni dell’apparire, non è soltanto un aspetto della genialità e dell’inventiva di un singolo creatore di modelli. In realtà si muove all’interno di tre questioni fondamentali che i suoi operatori debbono sapere interpretare: 1) che cosa bisogna produrre; 2) che cosa bisogna consumare; 3) che cosa bisogna distribuire. Al di là dei puri criteri stilistici, la moda si basa dunque su precisi parametri di di gusti e consumi, su sofisticati approcci e strategie aziendali, commerciali e di immagine e su approfondite conoscenze delle trasformazioni e delle tendenze culturali e sociali in atto.&lt;/p&gt;
 
 &lt;p&gt;Indice.
-Parte prima: Moda e scenze umane
- 1. Un altro paio di maniche (M.G. Muzzarelli);
- 2. Culture e mode del corpo (P. Sorcinelli);
- 3. Storia e moda (D. Calanca);
- 4. Il giornalismo di moda. Applicazioni nel campo storico (A. Malfitano);
- 5. La psicologia e la moda (P. Battistini);
- 6. Arte e moda: un rapporto in evoluzione (S. Grandi);
- 7. Lostudio dell’abbigliamento tra arti decorative e design (A. Vaccari);&lt;/p&gt;
+Parte prima: Moda e scenze umane&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Un altro paio di maniche (M.G. Muzzarelli);&lt;/li&gt;
+  &lt;li&gt;Culture e mode del corpo (P. Sorcinelli);&lt;/li&gt;
+  &lt;li&gt;Storia e moda (D. Calanca);&lt;/li&gt;
+  &lt;li&gt;Il giornalismo di moda. Applicazioni nel campo storico (A. Malfitano);&lt;/li&gt;
+  &lt;li&gt;La psicologia e la moda (P. Battistini);&lt;/li&gt;
+  &lt;li&gt;Arte e moda: un rapporto in evoluzione (S. Grandi);&lt;/li&gt;
+  &lt;li&gt;Lostudio dell’abbigliamento tra arti decorative e design (A. Vaccari);&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Parte seconda: Linguaggi, scambi e strategie nel sistema della moda
- 8. L’industria della moda negli studi organizzativi: miti,  equivoci e prospettiva di ricerca (N. Giusti);
- 9. Orientamento al mercato per le imprese di moda (A. Manarsi);
- 10. I processi di un’azienda fashion (A. Barcaro);
- 11. La semiotica e la moda (G. Proni);
- 12. Moda e mezzi di comunicazione di massa (A. Mascio);
- 13. Il linguaggio degli abiti e l’inglese della moda (M. Lorusso);
- 14. Appunti di informatica nella didattica universitaria (E. Marini);
- 15. Comunicare e comprendere per una sfida globale (M. Moretti).&lt;/p&gt;
+&lt;p&gt;Parte seconda: Linguaggi, scambi e strategie nel sistema della moda&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;L’industria della moda negli studi organizzativi: miti,  equivoci e prospettiva di ricerca (N. Giusti);&lt;/li&gt;
+  &lt;li&gt;Orientamento al mercato per le imprese di moda (A. Manarsi);&lt;/li&gt;
+  &lt;li&gt;I processi di un’azienda fashion (A. Barcaro);&lt;/li&gt;
+  &lt;li&gt;La semiotica e la moda (G. Proni);&lt;/li&gt;
+  &lt;li&gt;Moda e mezzi di comunicazione di massa (A. Mascio);&lt;/li&gt;
+  &lt;li&gt;Il linguaggio degli abiti e l’inglese della moda (M. Lorusso);&lt;/li&gt;
+  &lt;li&gt;Appunti di informatica nella didattica universitaria (E. Marini);&lt;/li&gt;
+  &lt;li&gt;Comunicare e comprendere per una sfida globale (M. Moretti).&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2003/01/01/studiare-moda.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2003/01/01/studiare-moda.html</guid>
+        <link>http://localhost:4000/pubblications/2003/01/01/studiare-moda.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2003/01/01/studiare-moda.html</guid>
         
         
         <category>Pubblications</category>
@@ -231,8 +239,8 @@ Parte prima: Moda e scenze umane
 &lt;p&gt;Tra il 395 e il 430, Sant’ Agostino afferma due principi etico-religiosi che per diciotto secoli peseranno sui comportamenti sessuali di tutto l’Occidente: «La concupiscenza trasmette il peccato originale» e «Il peccato originale è lasciato in retaggio all’umanità attraverso l’atto sessuale». Da qui l’assimilazione del peccato originale al peccato sessuale, e dunque il rifiuto del piacere attraverso la lotta alla concupiscenza della carne che per lunghi secoli marcerà di pari passo con i tentativi di resistere ai piaceri della gola. Questo libro dimostra quanto ciò sia stato importante per la cultura occidentale, e anche, se ce ne fosse bisogno, che uomini e donne non sempre sapevano resistere, e che in fin dei conti la trasgressione era spesso la regola della vita di tutti i giorni.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 2001 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/2001/01/01/storia-sessualit%C3%A0.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/2001/01/01/storia-sessualit%C3%A0.html</guid>
+        <link>http://localhost:4000/pubblications/2001/01/01/storia-sessualit%C3%A0.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/2001/01/01/storia-sessualit%C3%A0.html</guid>
         
         
         <category>Pubblications</category>
@@ -249,8 +257,8 @@ Parte prima: Moda e scenze umane
 Il volume è arricchito da una rara documentazione fotografica.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 1999 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1999/01/01/italiani-cibo.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1999/01/01/italiani-cibo.html</guid>
+        <link>http://localhost:4000/pubblications/1999/01/01/italiani-cibo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1999/01/01/italiani-cibo.html</guid>
         
         
         <category>Pubblications</category>
@@ -267,8 +275,8 @@ Il volume è arricchito da una rara documentazione fotografica.&lt;/p&gt;
 Dalla storia del movimento operaio all’interesse verso temi come il pauperismo, la marginalità, le condizioni di vita, la mentalità e le visioni del mondo, la storia sociale ha cercato di dar voce a quella maggiornaze di uomini che la storia politica e diplomatica aveva sempre trascurato. Con le indagini quantitative della demografia storica e i metodi indiziari della microstoria; con le introspezioni della psicostoria e lo studio dei comportamenti collettivi; con la storia della morte, della sessualità, della malattia e dei sentimenti, la storia sociale ha interrogato il passato alla luce di nuovi metodi, di nuove fonti e di una diversa sensibilità interpretativa.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 1996 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1996/01/01/quotidiano-sentimenti.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1996/01/01/quotidiano-sentimenti.html</guid>
+        <link>http://localhost:4000/pubblications/1996/01/01/quotidiano-sentimenti.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1996/01/01/quotidiano-sentimenti.html</guid>
         
         
         <category>Pubblications</category>
@@ -284,8 +292,8 @@ Dalla storia del movimento operaio all’interesse verso temi come il pauperismo
 &lt;p&gt;Il volume raccoglie i contributi di docenti di diverse università italiane: Emanuela Renzetti (Università di Trento), Daniela Maldini Chiarito (Università di Torino), Augusta Palombarini (Università di Macerata), Paola Magnarelli (Università di Macerata), Paolo Sorcinelli (Università di Bologna), Eugenia Tognotti (Università di Sassari) , Margherita Pelaja (Fondazione Basso - Roma), Casimira Grandi (Università di Trento), Carla Ge Rondi (Università di Pavia) , Fiorenza Tarozzi (Università di Bologna), Serenella Nonnis Vigilante (Università di Torino), Bruno P.F. Wanrooij (Syracuse University - Firenze), Marco Barbanti (Università di Bologna).&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 1995 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1995/01/01/amori-trasgressioni.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1995/01/01/amori-trasgressioni.html</guid>
+        <link>http://localhost:4000/pubblications/1995/01/01/amori-trasgressioni.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1995/01/01/amori-trasgressioni.html</guid>
         
         
         <category>Pubblications</category>
@@ -293,16 +301,16 @@ Dalla storia del movimento operaio all’interesse verso temi come il pauperismo
       </item>
     
       <item>
-        <title>EROS&lt;br&gt;Storie e fantasie degli italiani dall&#39;Ottocento ad oggi</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/1993.EROS.jpeg&quot; alt=&quot;&amp;quot;Eros, storie e fantasie degli italiani dall&#39;Ottocento ad oggi&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>EROS&lt;br&gt;Storie e fantasie degli italiani dall'Ottocento ad oggi</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/1993.EROS.jpeg&quot; alt=&quot;&amp;quot;Eros, storie e fantasie degli italiani dall'Ottocento ad oggi&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Edizioni: &lt;strong&gt;Laterza, Roma-Bari 1993&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cento anni di vita sessuale degli italiani rivivono attraverso un’attenta scelta di testi tratti dalla produzione letteraria e scientifica (o pseudoscientifica), dal folclore, dalla precettistica religiosa, dagli epistolari, dai resoconti processuali. A descrivere i piaceri dei sensi, le frustrazioni delIa realtà, le tenerezze delI’amore, la scabrosità dei sogni sono tra gli altri Mantegazza, GemelIi, Cassola, Pavese, Lombroso, Guido da Verona, Grazia Deledda, Malaparte, Pasolini. NelIe loro pagine il pudore, il desiderio e l’amore si caricano di significati ambigui e contraddittori, diventano rappresentazioni di un gioco fatto di turbamenti, rimorsi, trasgressioni. AlIa fine di questo viaggio nelIa sessualità italiana sarà più facile per il lettore rispondere all’interrogativo posto dalI’ Autore: gli italiani sono cosl ‘perbenisti’ come la morale imperante per quasi un secolo ha fatto mostra di pretendere?&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 1993 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1993/01/01/eros.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1993/01/01/eros.html</guid>
+        <link>http://localhost:4000/pubblications/1993/01/01/eros.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1993/01/01/eros.html</guid>
         
         
         <category>Pubblications</category>
@@ -310,16 +318,16 @@ Dalla storia del movimento operaio all’interesse verso temi come il pauperismo
       </item>
     
       <item>
-        <title>STORIA SOCIALE DELL&#39;ACQUA&lt;/br&gt;Riti e culture</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/1998.Storia sociale dell&#39;acqua.jpeg&quot; alt=&quot;&amp;quot;Storia sociale dell’acqua. Riti e culture.&amp;quot;&quot; /&gt;&lt;/p&gt;
+        <title>STORIA SOCIALE DELL'ACQUA&lt;/br&gt;Riti e culture</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/Copertine/1998.Storia sociale dell'acqua.jpeg&quot; alt=&quot;&amp;quot;Storia sociale dell’acqua. Riti e culture.&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Edizioni: &lt;strong&gt;Bruno Mondadori, Milano 1998&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;L’acqua, elemento primario della vita, entrando in contatto con l’uomo assume mille facce e si impregna di mille significati. Diventa lo specchio delle paure e delle speranze, della ricchezza, della salute e delle malattie, del divertimento e del do- lore degli esseri umani. Ricostruendo questo rapporto millenario (attraverso fonti documentarie spesso marginali, opere letterarie, quadri e illustrazioni), Sorcinelli ripercorre la storia del rapporto tra l’uomo e l’acqua: una griglia di lettura originale, tramite la quale attraversare la storia sociale, la storia della nostra cultura e della nostra mentalità.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 1993 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1993/01/01/acqua-riti-culture.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1993/01/01/acqua-riti-culture.html</guid>
+        <link>http://localhost:4000/pubblications/1993/01/01/acqua-riti-culture.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1993/01/01/acqua-riti-culture.html</guid>
         
         
         <category>Pubblications</category>
@@ -336,8 +344,8 @@ Dalla storia del movimento operaio all’interesse verso temi come il pauperismo
 
 </description>
         <pubDate>Wed, 01 Jan 1992 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1992/01/01/follie-guerra.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1992/01/01/follie-guerra.html</guid>
+        <link>http://localhost:4000/pubblications/1992/01/01/follie-guerra.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1992/01/01/follie-guerra.html</guid>
         
         
         <category>Pubblications</category>
@@ -354,8 +362,8 @@ Dalla storia del movimento operaio all’interesse verso temi come il pauperismo
 
 </description>
         <pubDate>Mon, 01 Jan 1990 01:00:00 +0100</pubDate>
-        <link>http:paolosorcinelli.github.io/pubblications/1990/01/01/pallottole-matte.html</link>
-        <guid isPermaLink="true">http:paolosorcinelli.github.io/pubblications/1990/01/01/pallottole-matte.html</guid>
+        <link>http://localhost:4000/pubblications/1990/01/01/pallottole-matte.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pubblications/1990/01/01/pallottole-matte.html</guid>
         
         
         <category>Pubblications</category>
