@@ -1,5 +1,5 @@
 ---
-title:  "GLI OCCHI DI CIOLA<br>Viaggio nelle steorie di paese"
+title:  "GLI OCCHI DI CIOLA<br>Viaggio nelle storie di paese"
 date:   2021-01-01 00:00:00
 categories: Pubblications
 ---
