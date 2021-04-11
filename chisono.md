@@ -40,6 +40,8 @@ Nel 2011 ha pubblicato per la Utet: **“L’alluvione. L’Italia e il Polesine
 
 Nel 2013, per la Bruno Mondadori-Pearson, ha dato alle stampe il volume **“Otto settembre”**. 
 
+Attualmente, con Cristina Gaspodini, dirige la collana **"Storie Narrate"** (Edizioni Biblioteca Clueb).
+
 Per la bibliografia completa si rimanda all’apposita sezione.
 
 Ha partecipato a programmi della Radio-Televisione Svizzera Italiana: Pentagono, Era Ora, Millefogli, Il giardino di Albert e a numerose trasmissioni radiofoniche e televisive  della RAI: Lampi d'inverno, Appunti di volo, Viaggio in Italia, Strada facendo, Il cammello, Il baco del millennio, Fahrenheit, Notte dei misteri, Tempo di sapori, Taccuino Italiano, Babele, La storia siamo noi, Correva l’anno, TG2 Dossier.  

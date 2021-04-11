@@ -8,6 +8,10 @@ layout: default
 
 <h1>SAGGI, MONOGRAFIE E CURATELE</h1>
 
+**2021**: **Gli occhi di Ciola. Viaggio nelle storie di paese**, Biblioteca Clueb, Bologna, pp. 256.
+
+**2020**: **Nuove epidemie antiche paure** (nuova edizione), Biblioteca Clueb, Bologna, pp. 169.
+
 **2020** : **Storie dell’otto settembre**, BibliotecaClueb, Bologna, pp. 294
 
 **2017** : **Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti** (1880-1960), Laboratorio di Memorie,  pp. 268, 165 ill. (con Paolo Alfieri)
