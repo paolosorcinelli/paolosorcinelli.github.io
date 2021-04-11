@@ -6,5 +6,5 @@ categories: Pubblications
 
 !["Nuove Epidemie Antiche Paure."](/assets/Copertine/2020.Nuove epidemie.jpg)
 
-Edizione: **BibliotecaClueb, 2020**
+Edizione: **Biblioteca Clueb, 2020**
 

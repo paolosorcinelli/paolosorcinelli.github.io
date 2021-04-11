@@ -8,7 +8,7 @@ categories: Pubblications
 <br>
 !["Otto settembre."](/assets/Copertine/2013.Otto settembre.jpg)
 
-Nuova edizione: **BibliotecaClueb, 2020**
+Nuova edizione: **Biblioteca Clueb, 2020**
 <br>
 1^ edizione: **Bruno Mondadori - La storia narrata, 2013**
 
