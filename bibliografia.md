@@ -8,11 +8,13 @@ layout: default
 
 <h1>SAGGI, MONOGRAFIE E CURATELE</h1>
 
+**2022**: **Storie intime del corpo**, Biblioteca Clueb, Bologna, pp. 203.
+
 **2021**: **Gli occhi di Ciola. Viaggio nelle storie di paese**, Biblioteca Clueb, Bologna, pp. 256.
 
 **2020**: **Nuove epidemie antiche paure** (nuova edizione), Biblioteca Clueb, Bologna, pp. 169.
 
-**2020** : **Storie dell’otto settembre**, BibliotecaClueb, Bologna, pp. 294
+**2020** : **Storie dell’otto settembre**, BibliotecaClueb, Bologna, pp. 294.
 
 **2017** : **Il paese in posa. Gli studi fotografici e la rappresentazione dei sentimenti** (1880-1960), Laboratorio di Memorie,  pp. 268, 165 ill. (con Paolo Alfieri)
 
@@ -95,6 +97,14 @@ layout: default
 &nbsp;
 
 <h1>CONTRIBUTI IN LIBRI E RIVISTE</h1>
+
+**2022**: **Il colera e la paura** in _Bibliomanie_, n. 53 - giugno 2022 (Bibliomanie.it - scaricabile in PDF).
+
+**La guerra nel cervello**, in _Campus-Unilibera e dintorni/3_, Pesaro, pp. 18-25.
+
+**2021**: **A proposito di epidemie, malattie e malati**, in _Marca/Marche_, 17/2021, Andrea Livi Editore, Fermo, pp. 13-20.
+
+**14 novembre 1951**, al seguent [link](https://www.rivistailmulino.it/a/14-novembre-1951-l-alluvione-del-polesine)
 
 **2016** : **La guerra e la psichiatria** in _La guerra in carne e ossa / The War in the Flesh_ (Minority Reports Cultural Disability Studies - 2/2016), Mimesis/Suor Orsola Benincasa University Press, pp.135-148.
 

@@ -48,6 +48,6 @@ Ha partecipato a programmi della Radio-Televisione Svizzera Italiana: Pentagono,
 
 Per il canale satellitare Discovery Channel History ha contribuito alla realizzazione de La storia intima degli italiani. 
 
+Nel 2021 ha partecipato con contributi in audio e video ai doocufilm Benelli su Benelli di Marta Miniucchi (Genoma Film), Lo sguardo su Venezia di Simone Marcelli (Catrina Producciones-Incipit 23).
+
 Fra il 1995 il 2009 ha ricoperto il ruolo di presidente del consiglio, di assessore ai beni e alle attività culturali presso l’Amministrazione Provinciale di Pesaro e Urbino.
-
-
