@@ -104,7 +104,7 @@ layout: default
 
 **2021**: **A proposito di epidemie, malattie e malati**, in _Marca/Marche_, 17/2021, Andrea Livi Editore, Fermo, pp. 13-20.
 
-**14 novembre 1951**, al seguent [link](https://www.rivistailmulino.it/a/14-novembre-1951-l-alluvione-del-polesine)
+**14 novembre 1951**, al seguente [link](https://www.rivistailmulino.it/a/14-novembre-1951-l-alluvione-del-polesine).
 
 **2016** : **La guerra e la psichiatria** in _La guerra in carne e ossa / The War in the Flesh_ (Minority Reports Cultural Disability Studies - 2/2016), Mimesis/Suor Orsola Benincasa University Press, pp.135-148.
 
